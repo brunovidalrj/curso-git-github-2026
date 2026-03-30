@@ -1,0 +1,5 @@
+ls -> lista arquivos
+ls -a -> lista arquivos oculto
+cd - > move entre diretórios
+cd .. -> volta para pasta superior
+pwd - > mostra diretório de trabalho
