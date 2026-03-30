@@ -1,1 +1,8 @@
 esse é o arquivo secundário
+
+primeiro comando
+segundo comando
+terceiro comando 
+quarto comando
+
+
