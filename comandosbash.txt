@@ -1,5 +1,8 @@
-ls -> lista arquivos
-ls -a -> lista arquivos oculto
-cd - > move entre diretórios
-cd .. -> volta para pasta superior
-pwd - > mostra diretório de trabalho
+ls 	-> lista arquivos
+ls -a 	-> lista arquivos oculto
+cd 	-> move entre diretórios
+cd .. 	-> volta para pasta superior
+pwd 	-> mostra diretório de trabalho
+cat 	-> mostra o que ta dentro do arquivo
+rm 	-> remove o arquivo ou diretório
+
